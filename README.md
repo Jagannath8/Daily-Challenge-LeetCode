@@ -9,3 +9,4 @@
 |   02.  |   380  |  [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)   |   November 29   |
 |   03.  |  1207  |  [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)   |   November 30   |
 |   04.  |  1704  |  [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)   |   December 01   |
+|   05.  |  1657  |  [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)   |   December 02   |
