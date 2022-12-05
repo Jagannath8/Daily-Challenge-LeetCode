@@ -10,3 +10,6 @@
 |   03.  |  1207  |  [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)   |   November 30   |
 |   04.  |  1704  |  [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)   |   December 01   |
 |   05.  |  1657  |  [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)   |   December 02   |
+|   06.  |  451  |  [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)   |   December 03   |
+|   07.  |  2256  |  [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)   |   December 04   |
+<!-- |   08.  |  1657  |  [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)   |   December 05   | -->
