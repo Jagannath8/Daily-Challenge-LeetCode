@@ -12,4 +12,4 @@
 |   05.  |  1657  |  [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)   |   December 02   |
 |   06.  |  451  |  [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)   |   December 03   |
 |   07.  |  2256  |  [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)   |   December 04   |
-<!-- |   08.  |  1657  |  [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)   |   December 05   | -->
+|   08.  |  876  |  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)   |   December 05   |
