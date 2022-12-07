@@ -14,3 +14,4 @@
 |   07.  |  2256  |  [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)   |   December 04   |
 |   08.  |  876  |  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)   |   December 05   |
 |   09.  |  328  |  [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)   |   December 06   |
+|   10.  |  938  |  [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)   |   December 07   |
