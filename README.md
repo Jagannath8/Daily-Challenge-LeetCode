@@ -15,3 +15,4 @@
 |   08.  |  876  |  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)   |   December 05   |
 |   09.  |  328  |  [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)   |   December 06   |
 |   10.  |  938  |  [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)   |   December 07   |
+|   11.  |  872  |  [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)   |   December 08   |
