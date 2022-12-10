@@ -17,3 +17,4 @@
 |   10.  |  938  |  [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)   |   December 07   |
 |   11.  |  872  |  [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)   |   December 08   |
 |   12.  |  1026  |  [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)   |   December 09   |
+|   13.  |  1339  |  [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)   |   December 10   |
