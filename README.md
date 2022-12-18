@@ -25,3 +25,4 @@
 |   18.  |  1143  |  [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)   |   December 15   |
 |   19.  |  232  |  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)   |   December 16   |
 |   20.  |  150  |  [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)   |   December 17   |
+|   21.  |  739  |  [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)   |   December 18   |
