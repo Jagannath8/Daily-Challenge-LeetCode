@@ -28,3 +28,4 @@
 |   21.  |  739  |  [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)   |   December 18   |
 |   22.  |  1971  |  [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)   |   December 19   |
 |   23.  |  841  |  [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)   |   December 20   |
+|   24.  |  886  |  [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)   |   December 21   |
