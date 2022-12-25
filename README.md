@@ -32,3 +32,4 @@
 |   25.  |  834  |  [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)   |   December 22   |
 |   26.  |  309  |  [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)   |   December 23   |
 |   27.  |  790  |  [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)   |   December 24   |
+|   28.  |  2389  |  [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)   |   December 25   |
