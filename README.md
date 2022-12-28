@@ -35,3 +35,4 @@
 |   28.  |  2389  |  [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)   |   December 25   |
 |   29.  |  55  |  [Jump Game](https://leetcode.com/problems/jump-game/)   |   December 26   |
 |   30.  |  2279  |  [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)   |   December 27   |
+|   31.  |  1962  |  [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)   |   December 28   |
