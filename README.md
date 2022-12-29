@@ -36,3 +36,4 @@
 |   29.  |  55  |  [Jump Game](https://leetcode.com/problems/jump-game/)   |   December 26   |
 |   30.  |  2279  |  [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)   |   December 27   |
 |   31.  |  1962  |  [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)   |   December 28   |
+|   32.  |  1834  |  [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)   |   December 29   |
