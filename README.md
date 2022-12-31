@@ -38,3 +38,4 @@
 |   31.  |  1962  |  [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)   |   December 28   |
 |   32.  |  1834  |  [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)   |   December 29   |
 |   33.  |  797  |  [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)   |   December 30   |
+|   34.  |  980  |  [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)   |   December 31   |
