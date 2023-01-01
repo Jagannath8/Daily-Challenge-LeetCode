@@ -39,3 +39,4 @@
 |   32.  |  1834  |  [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)   |   December 29   |
 |   33.  |  797  |  [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)   |   December 30   |
 |   34.  |  980  |  [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)   |   December 31   |
+|   35.  |  290  |  [Word Pattern](https://leetcode.com/problems/word-pattern/)   |   January 01   |
