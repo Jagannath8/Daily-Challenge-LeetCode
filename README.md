@@ -1,4 +1,4 @@
-# LeetCode-100-Days
+# Daily Challenge LeetCode
 
 <img src="https://img.shields.io/badge/leetcode%20-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=ffae42"/>
 
