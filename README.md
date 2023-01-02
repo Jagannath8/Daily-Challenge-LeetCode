@@ -40,3 +40,4 @@
 |   33.  |  797  |  [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)   |   December 30   |
 |   34.  |  980  |  [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)   |   December 31   |
 |   35.  |  290  |  [Word Pattern](https://leetcode.com/problems/word-pattern/)   |   January 01   |
+|   36.  |  520  |  [Detect Capital](https://leetcode.com/problems/detect-capital/)   |   January 02   |
