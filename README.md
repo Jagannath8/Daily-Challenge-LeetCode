@@ -41,3 +41,4 @@
 |   34.  |  980  |  [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)   |   December 31   |
 |   35.  |  290  |  [Word Pattern](https://leetcode.com/problems/word-pattern/)   |   January 01   |
 |   36.  |  520  |  [Detect Capital](https://leetcode.com/problems/detect-capital/)   |   January 02   |
+|   37.  |  944  |  [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)   |   January 03   |
