@@ -43,3 +43,4 @@
 |   36.  |  520  |  [Detect Capital](https://leetcode.com/problems/detect-capital/)   |   January 02   |
 |   37.  |  944  |  [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)   |   January 03   |
 |   38.  |  2244  |  [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)   |   January 04   |
+|   39.  |  452  |  [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)   |   January 05   |
