@@ -45,3 +45,4 @@
 |   38.  |  2244  |  [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)   |   January 04   |
 |   39.  |  452  |  [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)   |   January 05   |
 |   40.  |  1833  |  [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)   |   January 06   |
+|   41.  |  134  |  [Gas Station](https://leetcode.com/problems/gas-station/)   |   January 07   |
