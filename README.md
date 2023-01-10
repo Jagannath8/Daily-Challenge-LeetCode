@@ -48,3 +48,4 @@
 |   41.  |  134  |  [Gas Station](https://leetcode.com/problems/gas-station/)   |   January 07   |
 |   42.  |  149  |  [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)   |   January 08   |
 |   43.  |  144  |  [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)   |   January 09   |
+|   44.  |  100  |  [Same Tree](https://leetcode.com/problems/same-tree/)   |   January 10   |
