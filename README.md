@@ -59,3 +59,4 @@
 |   52.  |  918  |  [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)   |   January 18   |
 |   53.  |  974  |  [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)   |   January 19   |
 |   54.  |  491  |  [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)   |   January 20   |
+|   55.  |  93  |  [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)   |   January 21   |
