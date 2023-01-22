@@ -60,3 +60,4 @@
 |   53.  |  974  |  [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)   |   January 19   |
 |   54.  |  491  |  [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)   |   January 20   |
 |   55.  |  93  |  [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)   |   January 21   |
+|   56.  |  131  |  [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)   |   January 22   |
