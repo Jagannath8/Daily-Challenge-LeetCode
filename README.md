@@ -61,3 +61,4 @@
 |   54.  |  491  |  [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)   |   January 20   |
 |   55.  |  93  |  [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)   |   January 21   |
 |   56.  |  131  |  [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)   |   January 22   |
+|   57.  |  997  |  [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)   |   January 23   |
