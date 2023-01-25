@@ -63,4 +63,4 @@
 |   56.  |  131  |  [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)   |   January 22   |
 |   57.  |  997  |  [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)   |   January 23   |
 |   58.  |  909  |  [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)   |   January 24   |
-|   59.  |  2359  |  [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)   |   January 24   |
+|   59.  |  2359  |  [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)   |   January 25   |
