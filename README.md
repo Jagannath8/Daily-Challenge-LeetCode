@@ -66,4 +66,5 @@
 |   59.  |  2359  |  [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)   |   January 25   |
 |   60.  |  787  |  [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)   |   January 26   |
 |   61.  |  472  |  [Concatenated Words](https://leetcode.com/problems/concatenated-words/)   |   January 27   |
-|   62.  |  352  |  [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)   |   January 28   |
+|   62.  |  352  |  [Data  as Disjoint Intervals](https://leetcode.com/problems/data--as-disjoint-intervals/)   |   January 28   |
+|   63.  |  460  |  [LFU Cache](https://leetcode.com/problems/lfu-cache/)   |   January 29   |
