@@ -68,3 +68,4 @@
 |   61.  |  472  |  [Concatenated Words](https://leetcode.com/problems/concatenated-words/)   |   January 27   |
 |   62.  |  352  |  [Data  as Disjoint Intervals](https://leetcode.com/problems/data--as-disjoint-intervals/)   |   January 28   |
 |   63.  |  460  |  [LFU Cache](https://leetcode.com/problems/lfu-cache/)   |   January 29   |
+|   64.  |  1137  |  [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)   |   January 30   |
