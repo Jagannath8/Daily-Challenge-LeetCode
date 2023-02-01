@@ -70,3 +70,4 @@
 |   63.  |  460  |  [LFU Cache](https://leetcode.com/problems/lfu-cache/)   |   January 29   |
 |   64.  |  1137  |  [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)   |   January 30   |
 |   65.  |  1626  |  [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)   |   January 31   |
+|   66.  |  1071  |  [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)   |   February 01   |
