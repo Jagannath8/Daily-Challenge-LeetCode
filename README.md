@@ -72,3 +72,4 @@
 |   65.  |  1626  |  [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)   |   January 31   |
 |   66.  |  1071  |  [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)   |   February 01   |
 |   67.  |  953  |  [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)   |   February 02   |
+|   68.  |  6  |  [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)   |   February 03   |
