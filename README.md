@@ -74,3 +74,4 @@
 |   67.  |  953  |  [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)   |   February 02   |
 |   68.  |  6  |  [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)   |   February 03   |
 |   69.  |  567  |  [Permutation in String](https://leetcode.com/problems/permutation-in-string/)   |   February 04   |
+|   70.  |  438  |  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)   |   February 05   |
