@@ -75,3 +75,4 @@
 |   68.  |  6  |  [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)   |   February 03   |
 |   69.  |  567  |  [Permutation in String](https://leetcode.com/problems/permutation-in-string/)   |   February 04   |
 |   70.  |  438  |  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)   |   February 05   |
+|   71.  |  1470  |  [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)   |   February 06   |
