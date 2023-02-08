@@ -77,3 +77,4 @@
 |   70.  |  438  |  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)   |   February 05   |
 |   71.  |  1470  |  [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)   |   February 06   |
 |   72.  |  904  |  [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)   |   February 07   |
+|   73.  |  45  |  [Jump Game II](https://leetcode.com/problems/jump-game-ii/)   |   February 08   |
