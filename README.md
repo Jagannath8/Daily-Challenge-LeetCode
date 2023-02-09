@@ -78,3 +78,4 @@
 |   71.  |  1470  |  [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)   |   February 06   |
 |   72.  |  904  |  [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)   |   February 07   |
 |   73.  |  45  |  [Jump Game II](https://leetcode.com/problems/jump-game-ii/)   |   February 08   |
+|   74.  |  2306  |  [Naming a Company](https://leetcode.com/problems/naming-a-company/)   |   February 09   |
