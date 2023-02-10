@@ -79,3 +79,4 @@
 |   72.  |  904  |  [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)   |   February 07   |
 |   73.  |  45  |  [Jump Game II](https://leetcode.com/problems/jump-game-ii/)   |   February 08   |
 |   74.  |  2306  |  [Naming a Company](https://leetcode.com/problems/naming-a-company/)   |   February 09   |
+|   75.  |  1162  |  [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)   |   February 10   |
