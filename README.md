@@ -86,3 +86,4 @@
 |   79.  |  67  |  [Add Binary](https://leetcode.com/problems/add-binary/)   |   February 14   |
 |   80.  |  989  |  [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)   |   February 15   |
 |   81.  |  104  |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   |   February 16   |
+|   82.  |  783  |  [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)   |   February 17   |
