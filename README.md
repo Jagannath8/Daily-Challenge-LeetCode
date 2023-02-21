@@ -90,3 +90,4 @@
 |   83.  |  226  |  [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)   |   February 18   |
 |   84.  |  103  |  [Binary Tree Zigzag Level  Traversal](https://leetcode.com/problems/binary-tree-zigzag-level--traversal/)   |   February 19   |
 |   85.  |  35  |  [Search Insert Position](https://leetcode.com/problems/search-insert-position/)   |   February 20   |
+|   86.  |  540  |  [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)   |   February 21   |
