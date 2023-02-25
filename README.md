@@ -94,3 +94,4 @@
 |   87.  |  1011  |  [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)   |   February 22   |
 |   88.  |  502  |  [IPO](https://leetcode.com/problems/ipo/)   |   February 23   |
 |   89.  |  1675  |  [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)   |   February 24   |
+|   90.  |  121  |  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)   |   February 25   |
