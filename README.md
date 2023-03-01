@@ -98,3 +98,4 @@
 |   91.  |  72  |  [Edit Distance](https://leetcode.com/problems/edit-distance/)   |   February 26   |
 |   92.  |  427  |  [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)   |   February 27   |
 |   93.  |  652  |  [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)   |   February 28   |
+|   94.  |  912  |  [Sort an Array](https://leetcode.com/problems/sort-an-array/)   |   March 01   |
