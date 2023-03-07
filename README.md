@@ -104,3 +104,4 @@
 |   97.  |  2444  |  [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)   |   March 04   |
 |   98.  |  1345  |  [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)   |   March 05   |
 |   99.  |  1539  |  [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)   |   March 06   |
+|   100.  |  2187  |  [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)   |   March 07   |
