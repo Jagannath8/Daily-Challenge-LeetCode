@@ -112,3 +112,4 @@
 |   105.  |  23  |  [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)   |   March 12   |
 |   106.  |  101  |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)   |   March 13   |
 |   107.  |  129  |  [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)   |   March 14   |
+|   108.  |  958  |  [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)   |   March 15   |
