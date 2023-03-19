@@ -116,3 +116,4 @@
 |   109.  |  106  |  [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)   |   March 16   |
 |   110.  |  208  |  [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)   |   March 17   |
 |   111.  |  1472  |  [Design Browser History](https://leetcode.com/problems/design-browser-history/)   |   March 18   |
+|   112.  |  211  |  [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)   |   March 19   |
