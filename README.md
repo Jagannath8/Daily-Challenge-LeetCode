@@ -119,3 +119,4 @@
 |   112.  |  211  |  [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)   |   March 19   |
 |   113.  |  605  |  [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)   |   March 20   |
 |   114.  |  2348  |  [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)   |   March 21   |
+|   115.  |  2492  |  [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)   |   March 22   |
