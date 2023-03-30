@@ -127,3 +127,4 @@
 |   120.  |  64  |  [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)   |   March 27   |
 |   121.  |  983  |  [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)   |   March 28   |
 |   122.  |  1402  |  [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)   |   March 29   |
+|   123.  |  87  |  [Scramble String](https://leetcode.com/problems/scramble-string/)   |   March 30   |
