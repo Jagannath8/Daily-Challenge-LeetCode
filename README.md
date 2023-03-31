@@ -128,3 +128,4 @@
 |   121.  |  983  |  [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)   |   March 28   |
 |   122.  |  1402  |  [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)   |   March 29   |
 |   123.  |  87  |  [Scramble String](https://leetcode.com/problems/scramble-string/)   |   March 30   |
+|   124.  |  1444  |  [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)   |   March 31   |
