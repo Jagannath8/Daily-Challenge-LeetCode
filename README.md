@@ -130,3 +130,4 @@
 |   123.  |  87  |  [Scramble String](https://leetcode.com/problems/scramble-string/)   |   March 30   |
 |   124.  |  1444  |  [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)   |   March 31   |
 |   125.  |  704  |  [Binary Search](https://leetcode.com/problems/binary-search/)   |   April 01   |
+|   126.  |  2300  |  [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)   |   April 02   |
