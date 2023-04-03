@@ -131,3 +131,4 @@
 |   124.  |  1444  |  [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)   |   March 31   |
 |   125.  |  704  |  [Binary Search](https://leetcode.com/problems/binary-search/)   |   April 01   |
 |   126.  |  2300  |  [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)   |   April 02   |
+|   127.  |  881  |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)   |   April 03   |
