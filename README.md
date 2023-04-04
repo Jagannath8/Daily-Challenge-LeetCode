@@ -132,3 +132,4 @@
 |   125.  |  704  |  [Binary Search](https://leetcode.com/problems/binary-search/)   |   April 01   |
 |   126.  |  2300  |  [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)   |   April 02   |
 |   127.  |  881  |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)   |   April 03   |
+|   128.  |  2405  |  [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)   |   April 04   |
