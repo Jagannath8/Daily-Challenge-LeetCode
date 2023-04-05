@@ -133,3 +133,4 @@
 |   126.  |  2300  |  [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)   |   April 02   |
 |   127.  |  881  |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)   |   April 03   |
 |   128.  |  2405  |  [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)   |   April 04   |
+|   129.  |  2439  |  [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)   |   April 05   |
