@@ -137,3 +137,4 @@
 |   130.  |  1254  |  [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)   |   April 06   |
 |   131.  |  1020  |  [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)   |   April 07   |
 |   132.  |  133  |  [Clone Graph](https://leetcode.com/problems/clone-graph/)   |   April 08   |
+|   133.  |  1857  |  [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)   |   April 09   |
