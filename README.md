@@ -138,3 +138,4 @@
 |   131.  |  1020  |  [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)   |   April 07   |
 |   132.  |  133  |  [Clone Graph](https://leetcode.com/problems/clone-graph/)   |   April 08   |
 |   133.  |  1857  |  [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)   |   April 09   |
+|   134.  |  20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)   |   April 10   |
