@@ -140,3 +140,4 @@
 |   133.  |  1857  |  [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)   |   April 09   |
 |   134.  |  20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)   |   April 10   |
 |   135.  |  2390  |  [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)   |   April 11   |
+|   136.  |  71  |  [Simplify Path](https://leetcode.com/problems/simplify-path/)   |   April 12   |
