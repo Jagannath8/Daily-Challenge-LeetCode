@@ -141,3 +141,4 @@
 |   134.  |  20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)   |   April 10   |
 |   135.  |  2390  |  [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)   |   April 11   |
 |   136.  |  71  |  [Simplify Path](https://leetcode.com/problems/simplify-path/)   |   April 12   |
+|   137.  |  946  |  [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)   |   April 13   |
