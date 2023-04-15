@@ -143,3 +143,4 @@
 |   136.  |  71  |  [Simplify Path](https://leetcode.com/problems/simplify-path/)   |   April 12   |
 |   137.  |  946  |  [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)   |   April 13   |
 |   138.  |  516  |  [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)   |   April 14   |
+|   139.  |  2218  |  [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)   |   April 15   |
