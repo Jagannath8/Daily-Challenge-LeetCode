@@ -144,3 +144,4 @@
 |   137.  |  946  |  [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)   |   April 13   |
 |   138.  |  516  |  [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)   |   April 14   |
 |   139.  |  2218  |  [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)   |   April 15   |
+|   140.  |  1639  |  [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)   |   April 16   |
