@@ -147,3 +147,4 @@
 |   140.  |  1639  |  [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)   |   April 16   |
 |   141.  |  1431  |  [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)   |   April 17   |
 |   142.  |  1768  |  [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)   |   April 18   |
+|   143.  |  1372  |  [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)   |   April 19   |
