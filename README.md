@@ -149,3 +149,4 @@
 |   142.  |  1768  |  [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)   |   April 18   |
 |   143.  |  1372  |  [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)   |   April 19   |
 |   144.  |  662  |  [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)   |   April 20   |
+|   145.  |  879  |  [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)   |   April 21   |
