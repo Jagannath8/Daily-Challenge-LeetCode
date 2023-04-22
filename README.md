@@ -150,3 +150,4 @@
 |   143.  |  1372  |  [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)   |   April 19   |
 |   144.  |  662  |  [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)   |   April 20   |
 |   145.  |  879  |  [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)   |   April 21   |
+|   146.  |  1312  |  [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)   |   April 22   |
