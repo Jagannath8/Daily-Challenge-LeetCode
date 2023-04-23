@@ -151,3 +151,4 @@
 |   144.  |  662  |  [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)   |   April 20   |
 |   145.  |  879  |  [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)   |   April 21   |
 |   146.  |  1312  |  [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)   |   April 22   |
+|   147.  |  1416  |  [Restore The Array](https://leetcode.com/problems/restore-the-array/)   |   April 23   |
