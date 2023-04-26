@@ -154,3 +154,4 @@
 |   147.  |  1416  |  [Restore The Array](https://leetcode.com/problems/restore-the-array/)   |   April 23   |
 |   148.  |  1046  |  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)   |   April 24   |
 |   149.  |  2336  |  [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)   |   April 25   |
+|   150.  |  258  |  [Add Digits](https://leetcode.com/problems/add-digits/)   |   April 26   |
