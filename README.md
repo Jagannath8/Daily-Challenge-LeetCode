@@ -157,3 +157,4 @@
 |   150.  |  258  |  [Add Digits](https://leetcode.com/problems/add-digits/)   |   April 26   |
 |   151.  |  319  |  [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)   |   April 27   |
 |   152.  |  839  |  [Similar String Groups](https://leetcode.com/problems/similar-string-groups/)   |   April 28   |
+|   153.  |  1697  |  [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)   |   April 29   |
