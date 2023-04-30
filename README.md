@@ -158,3 +158,4 @@
 |   151.  |  319  |  [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)   |   April 27   |
 |   152.  |  839  |  [Similar String Groups](https://leetcode.com/problems/similar-string-groups/)   |   April 28   |
 |   153.  |  1697  |  [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)   |   April 29   |
+|   154.  |  1579  |  [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)   |   April 30   |
