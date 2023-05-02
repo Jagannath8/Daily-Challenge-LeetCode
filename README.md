@@ -160,3 +160,4 @@
 |   153.  |  1697  |  [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)   |   April 29   |
 |   154.  |  1579  |  [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)   |   April 30   |
 |   155.  |  1491  |  [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)   |   May 01   |
+|   156.  |  1822  |  [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)   |   May 02   |
