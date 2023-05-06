@@ -164,3 +164,4 @@
 |   157.  |  2215  |  [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)   |   May 03   |
 |   158.  |  649  |  [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)   |   May 04   |
 |   159.  |  1456  |  [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)   |   May 05   |
+|   160.  |  1498  |  [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)   |   May 06   |
