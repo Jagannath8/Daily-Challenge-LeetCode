@@ -170,3 +170,4 @@
 |   163.  |  54  |  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)   |   May 09   |
 |   164.  |  59  |  [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)   |   May 10   |
 |   165.  |  1035  |  [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)   |   May 11   |
+|   166.  |  2140  |  [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)   |   May 12   |
