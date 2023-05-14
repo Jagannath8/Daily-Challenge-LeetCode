@@ -172,3 +172,4 @@
 |   165.  |  1035  |  [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)   |   May 11   |
 |   166.  |  2140  |  [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)   |   May 12   |
 |   167.  |  2466  |  [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)   |   May 13   |
+|   168.  |  1799  |  [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)   |   May 14   |
