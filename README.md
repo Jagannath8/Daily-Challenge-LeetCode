@@ -173,3 +173,4 @@
 |   166.  |  2140  |  [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)   |   May 12   |
 |   167.  |  2466  |  [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)   |   May 13   |
 |   168.  |  1799  |  [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)   |   May 14   |
+|   169.  |  1721  |  [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)   |   May 15   |
