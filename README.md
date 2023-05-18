@@ -176,3 +176,4 @@
 |   169.  |  1721  |  [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)   |   May 15   |
 |   170.  |  24  |  [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)   |   May 16   |
 |   171.  |  2130  |  [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)   |   May 17   |
+|   172.  |  1557  |  [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)   |   May 18   |
