@@ -183,3 +183,4 @@
 |   176.  |  347  |  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)   |   May 22   |
 |   177.  |  703  |  [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   |   May 23   |
 |   178.  |  2542  |  [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)   |   May 24   |
+|   179.  |  837  |  [New 21 Game](https://leetcode.com/problems/new-21-game/)   |   May 25   |
