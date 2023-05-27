@@ -185,3 +185,4 @@
 |   178.  |  2542  |  [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)   |   May 24   |
 |   179.  |  837  |  [New 21 Game](https://leetcode.com/problems/new-21-game/)   |   May 25   |
 |   180.  |  1140  |  [Stone Game II](https://leetcode.com/problems/stone-game-ii/)   |   May 26   |
+|   181.  |  1406  |  [Stone Game III](https://leetcode.com/problems/stone-game-iii/)   |   May 27   |
