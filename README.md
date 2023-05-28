@@ -186,3 +186,4 @@
 |   179.  |  837  |  [New 21 Game](https://leetcode.com/problems/new-21-game/)   |   May 25   |
 |   180.  |  1140  |  [Stone Game II](https://leetcode.com/problems/stone-game-ii/)   |   May 26   |
 |   181.  |  1406  |  [Stone Game III](https://leetcode.com/problems/stone-game-iii/)   |   May 27   |
+|   182.  |  1547  |  [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)   |   May 28   |
