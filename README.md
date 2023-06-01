@@ -190,3 +190,4 @@
 |   183.  |  1603  |  [Design Parking System](https://leetcode.com/problems/design-parking-system/)   |   May 29   |
 |   184.  |  705  |  [Design HashSet](https://leetcode.com/problems/design-hashset/)   |   May 30   |
 |   185.  |  1396  |  [Design Underground System](https://leetcode.com/problems/design-underground-system/)   |   May 31   |
+|   186.  |  1091  |  [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)   |   June 01   |
