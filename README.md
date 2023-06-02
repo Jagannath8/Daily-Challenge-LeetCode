@@ -191,3 +191,4 @@
 |   184.  |  705  |  [Design HashSet](https://leetcode.com/problems/design-hashset/)   |   May 30   |
 |   185.  |  1396  |  [Design Underground System](https://leetcode.com/problems/design-underground-system/)   |   May 31   |
 |   186.  |  1091  |  [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)   |   June 01   |
+|   187.  |  2101  |  [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)   |   June 02   |
