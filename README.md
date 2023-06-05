@@ -194,3 +194,4 @@
 |   187.  |  2101  |  [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)   |   June 02   |
 |   188.  |  1376  |  [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)   |   June 03   |
 |   189.  |  547  |  [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)   |   June 04   |
+|   190.  |  1232  |  [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)   |   June 05   |
