@@ -195,3 +195,4 @@
 |   188.  |  1376  |  [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)   |   June 03   |
 |   189.  |  547  |  [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)   |   June 04   |
 |   190.  |  1232  |  [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)   |   June 05   |
+|   191.  |  1502  |  [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)   |   June 06   |
