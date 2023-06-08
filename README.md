@@ -197,3 +197,4 @@
 |   190.  |  1232  |  [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)   |   June 05   |
 |   191.  |  1502  |  [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)   |   June 06   |
 |   192.  |  1318  |  [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)   |   June 07   |
+|   193.  |  1351  |  [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)   |   June 08   |
