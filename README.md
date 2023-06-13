@@ -202,3 +202,4 @@
 |   195.  |  1802  |  [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)   |   June 10   |
 |   196.  |  1146  |  [Snapshot Array](https://leetcode.com/problems/snapshot-array/)   |   June 11   |
 |   197.  |  228  |  [Summary Ranges](https://leetcode.com/problems/summary-ranges/)   |   June 12   |
+|   198.  |  2352  |  [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)   |   June 13   |
