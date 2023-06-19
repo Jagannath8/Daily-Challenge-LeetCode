@@ -208,3 +208,4 @@
 |   201.  |  1569  |  [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)   |   June 16   |
 |   202.  |  1187  |  [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)   |   June 17   |
 |   203.  |  2328  |  [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)   |   June 18   |
+|   204.  |  1732  |  [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   |   June 19   |
