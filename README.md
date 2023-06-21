@@ -210,3 +210,4 @@
 |   203.  |  2328  |  [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)   |   June 18   |
 |   204.  |  1732  |  [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   |   June 19   |
 |   205.  |  2090  |  [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)   |   June 20   |
+|   206.  |  2448  |  [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)   |   June 21   |
