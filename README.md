@@ -211,3 +211,4 @@
 |   204.  |  1732  |  [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   |   June 19   |
 |   205.  |  2090  |  [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)   |   June 20   |
 |   206.  |  2448  |  [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)   |   June 21   |
+|   207.  |  714  |  [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)   |   June 22   |
