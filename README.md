@@ -216,3 +216,4 @@
 |   209.  |  956  |  [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)   |   June 24   |
 |   210.  |  1575  |  [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)   |   June 25   |
 |   211.  |  2462  |  [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)   |   June 26   |
+|   212.  |  373  |  [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)   |   June 27   |
