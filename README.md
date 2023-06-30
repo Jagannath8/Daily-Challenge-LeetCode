@@ -219,3 +219,4 @@
 |   212.  |  373  |  [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)   |   June 27   |
 |   213.  |  1514  |  [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)   |   June 28   |
 |   214.  |  864  |  [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)   |   June 29   |
+|   215.  |  1970  |  [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)   |   June 30   |
