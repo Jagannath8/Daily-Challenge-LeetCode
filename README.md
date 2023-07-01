@@ -220,3 +220,4 @@
 |   213.  |  1514  |  [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)   |   June 28   |
 |   214.  |  864  |  [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)   |   June 29   |
 |   215.  |  1970  |  [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)   |   June 30   |
+|   216.  |  2305  |  [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)   |   July 01   |
