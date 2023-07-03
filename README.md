@@ -222,3 +222,4 @@
 |   215.  |  1970  |  [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)   |   June 30   |
 |   216.  |  2305  |  [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)   |   July 01   |
 |   217.  |  1601  |  [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)   |   July 02   |
+|   218.  |  859  |  [Buddy Strings](https://leetcode.com/problems/buddy-strings/)   |   July 03   |
