@@ -11,7 +11,6 @@ class Solution {
             }
             j++;
         }
-        
         return ans==1000000?0:ans;
     }
 }
