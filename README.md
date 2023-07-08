@@ -227,3 +227,4 @@
 |   220.  |  1493  |  [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)   |   July 05   |
 |   221.  |  209  |  [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)   |   July 06   |
 |   222.  |  2024  |  [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)   |   July 07   |
+|   223.  |  2551  |  [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)   |   July 08   |
