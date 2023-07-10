@@ -229,3 +229,4 @@
 |   222.  |  2024  |  [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)   |   July 07   |
 |   223.  |  2551  |  [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)   |   July 08   |
 |   224.  |  2272  |  [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)   |   July 09   |
+|   225.  |  111  |  [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)   |   July 10   |
