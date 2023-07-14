@@ -233,4 +233,5 @@
 |   226.  |  863  |  [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)   |   July 11   |
 |   227.  |  802  |  [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)   |   July 12   |
 |   228.  |  207  |  [Course Schedule](https://leetcode.com/problems/course-schedule/)   |   July 13   |
+|   229.  |  1218  |  [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)   |   July 14   |
 
