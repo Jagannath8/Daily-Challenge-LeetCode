@@ -244,4 +244,5 @@
 |   237.  |  688  |  [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)   |   July 22   |
 |   238.  |  894  |  [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)   |   July 23   |
 |   239.  |  50  |  [Pow(x, n)](https://leetcode.com/problems/powx-n/)   |   July 24   |
+|   240.  |  852  |  [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)   |   July 25   |
 
