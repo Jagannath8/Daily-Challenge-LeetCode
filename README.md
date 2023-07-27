@@ -246,4 +246,5 @@
 |   239.  |  50  |  [Pow(x, n)](https://leetcode.com/problems/powx-n/)   |   July 24   |
 |   240.  |  852  |  [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)   |   July 25   |
 |   241.  |  1870  |  [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)   |   July 26   |
+|   242.  |  2141  |  [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)   |   July 27   |
 
