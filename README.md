@@ -249,4 +249,5 @@
 |   242.  |  2141  |  [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)   |   July 27   |
 |   243.  |  486  |  [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)   |   July 28   |
 |   244.  |  808  |  [Soup Servings](https://leetcode.com/problems/soup-servings/)   |   July 29   |
+|   245.  |  664  |  [Strange Printer](https://leetcode.com/problems/strange-printer/)   |   July 30   |
 
