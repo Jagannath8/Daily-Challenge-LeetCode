@@ -250,4 +250,5 @@
 |   243.  |  486  |  [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)   |   July 28   |
 |   244.  |  808  |  [Soup Servings](https://leetcode.com/problems/soup-servings/)   |   July 29   |
 |   245.  |  664  |  [Strange Printer](https://leetcode.com/problems/strange-printer/)   |   July 30   |
+|   246.  |  712  |  [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)   |   July 31   |
 
