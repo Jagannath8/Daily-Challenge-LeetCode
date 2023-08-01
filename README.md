@@ -251,4 +251,5 @@
 |   244.  |  808  |  [Soup Servings](https://leetcode.com/problems/soup-servings/)   |   July 29   |
 |   245.  |  664  |  [Strange Printer](https://leetcode.com/problems/strange-printer/)   |   July 30   |
 |   246.  |  712  |  [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)   |   July 31   |
+|   247.  |  77  |  [Combinations](https://leetcode.com/problems/combinations/)   |   August 01   |
 
