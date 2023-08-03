@@ -253,4 +253,5 @@
 |   246.  |  712  |  [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)   |   July 31   |
 |   247.  |  77  |  [Combinations](https://leetcode.com/problems/combinations/)   |   August 01   |
 |   248.  |  46  |  [Permutations](https://leetcode.com/problems/permutations/)   |   August 02   |
+|   249.  |  17  |  [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   |   August 03   |
 
