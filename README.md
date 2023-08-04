@@ -254,4 +254,5 @@
 |   247.  |  77  |  [Combinations](https://leetcode.com/problems/combinations/)   |   August 01   |
 |   248.  |  46  |  [Permutations](https://leetcode.com/problems/permutations/)   |   August 02   |
 |   249.  |  17  |  [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   |   August 03   |
+|   250.  |  139  |  [Word Break](https://leetcode.com/problems/word-break/)   |   August 04   |
 
