@@ -257,4 +257,5 @@
 |   250.  |  139  |  [Word Break](https://leetcode.com/problems/word-break/)   |   August 04   |
 |   251.  |  95  |  [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)   |   August 05   |
 |   252.  |  920  |  [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)   |   August 06   |
+|   253.  |  74  |  [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)   |   August 07   |
 
