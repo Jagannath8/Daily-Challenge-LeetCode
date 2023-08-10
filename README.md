@@ -260,4 +260,5 @@
 |   253.  |  74  |  [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)   |   August 07   |
 |   254.  |  33  |  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)   |   August 08   |
 |   255.  |  2616  |  [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)   |   August 09   |
+|   256.  |  81  |  [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)   |   August 10   |
 
