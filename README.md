@@ -263,4 +263,5 @@
 |   256.  |  81  |  [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)   |   August 10   |
 |   257.  |  518  |  [Coin Change II](https://leetcode.com/problems/coin-change-ii/)   |   August 11   |
 |   258.  |  63  |  [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)   |   August 12   |
+|   259.  |  2369  |  [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)   |   August 13   |
 
