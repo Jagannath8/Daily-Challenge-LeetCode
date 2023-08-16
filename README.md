@@ -266,4 +266,5 @@
 |   259.  |  2369  |  [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)   |   August 13   |
 |   260.  |  215  |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |   August 14   |
 |   261.  |  86  |  [Partition List](https://leetcode.com/problems/partition-list/)   |   August 15   |
+|   262.  |  239  |  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)   |   August 16   |
 
