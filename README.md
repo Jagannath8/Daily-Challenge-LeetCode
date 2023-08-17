@@ -267,4 +267,5 @@
 |   260.  |  215  |  [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |   August 14   |
 |   261.  |  86  |  [Partition List](https://leetcode.com/problems/partition-list/)   |   August 15   |
 |   262.  |  239  |  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)   |   August 16   |
+|   263.  |  542  |  [01 Matrix](https://leetcode.com/problems/01-matrix/)   |   August 17   |
 
