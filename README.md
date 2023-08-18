@@ -268,4 +268,5 @@
 |   261.  |  86  |  [Partition List](https://leetcode.com/problems/partition-list/)   |   August 15   |
 |   262.  |  239  |  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)   |   August 16   |
 |   263.  |  542  |  [01 Matrix](https://leetcode.com/problems/01-matrix/)   |   August 17   |
+|   264.  |  1615  |  [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)   |   August 18   |
 
