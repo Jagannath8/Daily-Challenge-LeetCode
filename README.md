@@ -270,4 +270,5 @@
 |   263.  |  542  |  [01 Matrix](https://leetcode.com/problems/01-matrix/)   |   August 17   |
 |   264.  |  1615  |  [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)   |   August 18   |
 |   265.  |  1489  |  [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)   |   August 19   |
+|   266.  |  1203  |  [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)   |   August 20   |
 
