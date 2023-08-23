@@ -273,4 +273,5 @@
 |   266.  |  1203  |  [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)   |   August 20   |
 |   267.  |  459  |  [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)   |   August 21   |
 |   268.  |  168  |  [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)   |   August 22   |
+|   269.  |  767  |  [Reorganize String](https://leetcode.com/problems/reorganize-string/)   |   August 23   |
 
