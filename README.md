@@ -277,4 +277,5 @@
 |   270.  |  68  |  [Text Justification](https://leetcode.com/problems/text-justification/)   |   August 24   |
 |   271.  |  97  |  [Interleaving String](https://leetcode.com/problems/interleaving-string/)   |   August 25   |
 |   272.  |  646  |  [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)   |   August 26   |
+|   273.  |  403  |  [Frog Jump](https://leetcode.com/problems/frog-jump/)   |   August 27   |
 
