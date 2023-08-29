@@ -279,4 +279,5 @@
 |   272.  |  646  |  [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)   |   August 26   |
 |   273.  |  403  |  [Frog Jump](https://leetcode.com/problems/frog-jump/)   |   August 27   |
 |   274.  |  225  |  [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)   |   August 28   |
+|   275.  |  2483  |  [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)   |   August 29   |
 
