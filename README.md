@@ -280,4 +280,5 @@
 |   273.  |  403  |  [Frog Jump](https://leetcode.com/problems/frog-jump/)   |   August 27   |
 |   274.  |  225  |  [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)   |   August 28   |
 |   275.  |  2483  |  [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)   |   August 29   |
+|   276.  |  2366  |  [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)   |   August 30   |
 
