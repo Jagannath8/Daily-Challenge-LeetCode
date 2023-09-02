@@ -282,4 +282,5 @@
 |   275.  |  2483  |  [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)   |   August 29   |
 |   276.  |  2366  |  [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)   |   August 30   |
 |   277.  |  1326  |  [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)   |   August 31   |
+|   278.  |  338  |  [Counting Bits](https://leetcode.com/problems/counting-bits/)   |   September 01   |
 
