@@ -284,4 +284,5 @@
 |   277.  |  1326  |  [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)   |   August 31   |
 |   278.  |  338  |  [Counting Bits](https://leetcode.com/problems/counting-bits/)   |   September 01   |
 |   279.  |  2707  |  [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)   |   September 02   |
+|   280.  |  62  |  [Unique Paths](https://leetcode.com/problems/unique-paths/)   |   September 03   |
 
