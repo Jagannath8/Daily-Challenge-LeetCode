@@ -287,4 +287,5 @@
 |   280.  |  62  |  [Unique Paths](https://leetcode.com/problems/unique-paths/)   |   September 03   |
 |   281.  |  141  |  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)   |   September 04   |
 |   282.  |  138  |  [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)   |   September 05   |
+|   283.  |  725  |  [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)   |   September 06   |
 
