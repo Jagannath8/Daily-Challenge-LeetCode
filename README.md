@@ -289,4 +289,5 @@
 |   282.  |  138  |  [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)   |   September 05   |
 |   283.  |  725  |  [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)   |   September 06   |
 |   284.  |  92  |  [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)   |   September 07   |
+|   285.  |  118  |  [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)   |   September 08   |
 
