@@ -291,4 +291,5 @@
 |   284.  |  92  |  [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)   |   September 07   |
 |   285.  |  118  |  [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)   |   September 08   |
 |   286.  |  377  |  [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)   |   September 09   |
+|   287.  |  1359  |  [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)   |   September 10   |
 
