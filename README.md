@@ -294,4 +294,5 @@
 |   287.  |  1359  |  [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)   |   September 10   |
 |   288.  |  1282  |  [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)   |   September 11   |
 |   289.  |  1647  |  [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)   |   September 12   |
+|   290.  |  135  |  [Candy](https://leetcode.com/problems/candy/)   |   September 13   |
 
