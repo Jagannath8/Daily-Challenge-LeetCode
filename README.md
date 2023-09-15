@@ -296,4 +296,5 @@
 |   289.  |  1647  |  [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)   |   September 12   |
 |   290.  |  135  |  [Candy](https://leetcode.com/problems/candy/)   |   September 13   |
 |   291.  |  332  |  [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)   |   September 14   |
+|   292.  |  1584  |  [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)   |   September 15   |
 
