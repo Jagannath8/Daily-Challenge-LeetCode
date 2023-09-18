@@ -299,4 +299,5 @@
 |   292.  |  1584  |  [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)   |   September 15   |
 |   293.  |  1631  |  [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)   |   September 16   |
 |   294.  |  847  |  [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)   |   September 17   |
+|   295.  |  1337  |  [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)   |   September 18   |
 
