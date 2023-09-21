@@ -302,4 +302,5 @@
 |   295.  |  1337  |  [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)   |   September 18   |
 |   296.  |  287  |  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   |   September 19   |
 |   297.  |  1658  |  [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)   |   September 20   |
+|   298.  |  4  |  [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   |   September 21   |
 
