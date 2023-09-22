@@ -303,4 +303,5 @@
 |   296.  |  287  |  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   |   September 19   |
 |   297.  |  1658  |  [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)   |   September 20   |
 |   298.  |  4  |  [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   |   September 21   |
+|   299.  |  392  |  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)   |   September 22   |
 
