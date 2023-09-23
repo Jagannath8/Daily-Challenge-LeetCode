@@ -304,4 +304,5 @@
 |   297.  |  1658  |  [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)   |   September 20   |
 |   298.  |  4  |  [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   |   September 21   |
 |   299.  |  392  |  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)   |   September 22   |
+|   300.  |  1048  |  [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)   |   September 23   |
 
