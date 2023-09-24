@@ -305,4 +305,5 @@
 |   298.  |  4  |  [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   |   September 21   |
 |   299.  |  392  |  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)   |   September 22   |
 |   300.  |  1048  |  [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)   |   September 23   |
+|   301.  |  799  |  [Champagne Tower](https://leetcode.com/problems/champagne-tower/)   |   September 24   |
 
