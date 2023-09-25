@@ -306,4 +306,5 @@
 |   299.  |  392  |  [Is Subsequence](https://leetcode.com/problems/is-subsequence/)   |   September 22   |
 |   300.  |  1048  |  [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)   |   September 23   |
 |   301.  |  799  |  [Champagne Tower](https://leetcode.com/problems/champagne-tower/)   |   September 24   |
+|   302.  |  389  |  [Find the Difference](https://leetcode.com/problems/find-the-difference/)   |   September 25   |
 
