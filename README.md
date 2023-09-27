@@ -308,4 +308,5 @@
 |   301.  |  799  |  [Champagne Tower](https://leetcode.com/problems/champagne-tower/)   |   September 24   |
 |   302.  |  389  |  [Find the Difference](https://leetcode.com/problems/find-the-difference/)   |   September 25   |
 |   303.  |  316  |  [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)   |   September 26   |
+|   304.  |  880  |  [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)   |   September 27   |
 
