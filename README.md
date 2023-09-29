@@ -310,4 +310,5 @@
 |   303.  |  316  |  [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)   |   September 26   |
 |   304.  |  880  |  [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)   |   September 27   |
 |   305.  |  905  |  [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)   |   September 28   |
+|   306.  |  896  |  [Monotonic Array](https://leetcode.com/problems/monotonic-array/)   |   September 29   |
 
