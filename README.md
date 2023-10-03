@@ -314,4 +314,5 @@
 |   307.  |  456  |  [132 Pattern](https://leetcode.com/problems/132-pattern/)   |   September 30   |
 |   308.  |  557  |  [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)   |   October 01   |
 |   309.  |  2038  |  [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)   |   October 02   |
+|   310.  |  1512  |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)   |   October 03   |
 
