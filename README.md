@@ -316,4 +316,5 @@
 |   309.  |  2038  |  [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)   |   October 02   |
 |   310.  |  1512  |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)   |   October 03   |
 |   311.  |  706  |  [Design HashMap](https://leetcode.com/problems/design-hashmap/)   |   October 04   |
+|   312.  |  229  |  [Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |   October 05   |
 
