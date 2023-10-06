@@ -317,4 +317,5 @@
 |   310.  |  1512  |  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)   |   October 03   |
 |   311.  |  706  |  [Design HashMap](https://leetcode.com/problems/design-hashmap/)   |   October 04   |
 |   312.  |  229  |  [Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |   October 05   |
+|   313.  |  343  |  [Integer Break](https://leetcode.com/problems/integer-break/)   |   October 06   |
 
