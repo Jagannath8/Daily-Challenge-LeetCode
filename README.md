@@ -318,4 +318,5 @@
 |   311.  |  706  |  [Design HashMap](https://leetcode.com/problems/design-hashmap/)   |   October 04   |
 |   312.  |  229  |  [Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |   October 05   |
 |   313.  |  343  |  [Integer Break](https://leetcode.com/problems/integer-break/)   |   October 06   |
+|   314.  |  1420  |  [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)   |   October 07   |
 
