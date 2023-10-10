@@ -321,4 +321,5 @@
 |   314.  |  1420  |  [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)   |   October 07   |
 |   315.  |  1458  |  [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)   |   October 08   |
 |   316.  |  34  |  [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)   |   October 09   |
+|   317.  |  2009  |  [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)   |   October 10   |
 
