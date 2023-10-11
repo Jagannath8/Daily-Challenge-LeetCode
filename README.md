@@ -322,4 +322,5 @@
 |   315.  |  1458  |  [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)   |   October 08   |
 |   316.  |  34  |  [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)   |   October 09   |
 |   317.  |  2009  |  [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)   |   October 10   |
+|   318.  |  2251  |  [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)   |   October 11   |
 
