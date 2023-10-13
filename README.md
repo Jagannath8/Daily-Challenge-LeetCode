@@ -324,4 +324,5 @@
 |   317.  |  2009  |  [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)   |   October 10   |
 |   318.  |  2251  |  [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)   |   October 11   |
 |   319.  |  1095  |  [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)   |   October 12   |
+|   320.  |  746  |  [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)   |   October 13   |
 
