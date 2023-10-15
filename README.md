@@ -326,4 +326,5 @@
 |   319.  |  1095  |  [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)   |   October 12   |
 |   320.  |  746  |  [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)   |   October 13   |
 |   321.  |  2742  |  [Painting the Walls](https://leetcode.com/problems/painting-the-walls/)   |   October 14   |
+|   322.  |  1269  |  [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)   |   October 15   |
 
