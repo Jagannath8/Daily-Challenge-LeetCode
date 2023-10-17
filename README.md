@@ -328,4 +328,5 @@
 |   321.  |  2742  |  [Painting the Walls](https://leetcode.com/problems/painting-the-walls/)   |   October 14   |
 |   322.  |  1269  |  [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)   |   October 15   |
 |   323.  |  119  |  [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)   |   October 16   |
+|   324.  |  1361  |  [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)   |   October 17   |
 
