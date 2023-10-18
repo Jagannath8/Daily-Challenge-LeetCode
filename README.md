@@ -329,4 +329,5 @@
 |   322.  |  1269  |  [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)   |   October 15   |
 |   323.  |  119  |  [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)   |   October 16   |
 |   324.  |  1361  |  [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)   |   October 17   |
+|   325.  |  2050  |  [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)   |   October 18   |
 
