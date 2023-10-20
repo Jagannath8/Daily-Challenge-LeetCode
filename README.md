@@ -331,4 +331,5 @@
 |   324.  |  1361  |  [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)   |   October 17   |
 |   325.  |  2050  |  [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)   |   October 18   |
 |   326.  |  844  |  [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)   |   October 19   |
+|   327.  |  341  |  [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)   |   October 20   |
 
