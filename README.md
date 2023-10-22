@@ -333,4 +333,5 @@
 |   326.  |  844  |  [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)   |   October 19   |
 |   327.  |  341  |  [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)   |   October 20   |
 |   328.  |  1425  |  [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)   |   October 21   |
+|   329.  |  1793  |  [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)   |   October 22   |
 
