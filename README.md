@@ -339,4 +339,5 @@
 |   332.  |  779  |  [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)   |   October 25   |
 |   333.  |  823  |  [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)   |   October 26   |
 |   334.  |  5  |  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   |   October 27   |
+|   335.  |  1220  |  [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)   |   October 28   |
 
