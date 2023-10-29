@@ -340,4 +340,5 @@
 |   333.  |  823  |  [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)   |   October 26   |
 |   334.  |  5  |  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   |   October 27   |
 |   335.  |  1220  |  [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)   |   October 28   |
+|   336.  |  458  |  [Poor Pigs](https://leetcode.com/problems/poor-pigs/)   |   October 29   |
 
