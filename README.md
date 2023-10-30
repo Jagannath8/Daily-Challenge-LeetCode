@@ -341,4 +341,5 @@
 |   334.  |  5  |  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   |   October 27   |
 |   335.  |  1220  |  [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)   |   October 28   |
 |   336.  |  458  |  [Poor Pigs](https://leetcode.com/problems/poor-pigs/)   |   October 29   |
+|   337.  |  1356  |  [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)   |   October 30   |
 
