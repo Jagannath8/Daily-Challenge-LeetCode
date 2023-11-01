@@ -343,4 +343,5 @@
 |   336.  |  458  |  [Poor Pigs](https://leetcode.com/problems/poor-pigs/)   |   October 29   |
 |   337.  |  1356  |  [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)   |   October 30   |
 |   338.  |  2433  |  [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)   |   October 31   |
+|   339.  |  501  |  [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)   |   November 01   |
 
