@@ -345,4 +345,5 @@
 |   338.  |  2433  |  [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)   |   October 31   |
 |   339.  |  501  |  [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)   |   November 01   |
 |   340.  |  2265  |  [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)   |   November 02   |
+|   341.  |  1441  |  [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)   |   November 03   |
 
