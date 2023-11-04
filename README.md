@@ -346,4 +346,5 @@
 |   339.  |  501  |  [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)   |   November 01   |
 |   340.  |  2265  |  [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)   |   November 02   |
 |   341.  |  1441  |  [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)   |   November 03   |
+|   342.  |  1503  |  [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)   |   November 04   |
 
