@@ -349,4 +349,5 @@
 |   342.  |  1503  |  [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)   |   November 04   |
 |   343.  |  1535  |  [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)   |   November 05   |
 |   344.  |  1845  |  [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)   |   November 06   |
+|   345.  |  1921  |  [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)   |   November 07   |
 
