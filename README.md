@@ -350,4 +350,5 @@
 |   343.  |  1535  |  [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)   |   November 05   |
 |   344.  |  1845  |  [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)   |   November 06   |
 |   345.  |  1921  |  [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)   |   November 07   |
+|   346.  |  2849  |  [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)   |   November 08   |
 
