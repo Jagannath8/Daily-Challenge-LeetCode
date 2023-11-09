@@ -351,4 +351,5 @@
 |   344.  |  1845  |  [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)   |   November 06   |
 |   345.  |  1921  |  [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)   |   November 07   |
 |   346.  |  2849  |  [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)   |   November 08   |
+|   347.  |  1759  |  [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)   |   November 09   |
 
