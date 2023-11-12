@@ -354,4 +354,5 @@
 |   347.  |  1759  |  [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)   |   November 09   |
 |   348.  |  1743  |  [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)   |   November 10   |
 |   349.  |  2642  |  [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)   |   November 11   |
+|   350.  |  815  |  [Bus Routes](https://leetcode.com/problems/bus-routes/)   |   November 12   |
 
