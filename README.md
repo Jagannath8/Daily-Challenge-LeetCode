@@ -356,4 +356,5 @@
 |   349.  |  2642  |  [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)   |   November 11   |
 |   350.  |  815  |  [Bus Routes](https://leetcode.com/problems/bus-routes/)   |   November 12   |
 |   351.  |  2785  |  [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)   |   November 13   |
+|   352.  |  1930  |  [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)   |   November 14   |
 
