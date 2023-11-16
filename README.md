@@ -358,4 +358,5 @@
 |   351.  |  2785  |  [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)   |   November 13   |
 |   352.  |  1930  |  [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)   |   November 14   |
 |   353.  |  1846  |  [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)   |   November 15   |
+|   354.  |  1980  |  [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)   |   November 16   |
 
