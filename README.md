@@ -360,4 +360,5 @@
 |   353.  |  1846  |  [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)   |   November 15   |
 |   354.  |  1980  |  [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)   |   November 16   |
 |   355.  |  1877  |  [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)   |   November 17   |
+|   356.  |  1838  |  [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)   |   November 18   |
 
