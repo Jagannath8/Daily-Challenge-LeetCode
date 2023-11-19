@@ -361,4 +361,5 @@
 |   354.  |  1980  |  [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)   |   November 16   |
 |   355.  |  1877  |  [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)   |   November 17   |
 |   356.  |  1838  |  [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)   |   November 18   |
+|   357.  |  1887  |  [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)   |   November 19   |
 
