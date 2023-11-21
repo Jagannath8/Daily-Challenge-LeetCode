@@ -363,4 +363,5 @@
 |   356.  |  1838  |  [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)   |   November 18   |
 |   357.  |  1887  |  [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)   |   November 19   |
 |   358.  |  2391  |  [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)   |   November 20   |
+|   359.  |  1814  |  [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)   |   November 21   |
 
