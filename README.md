@@ -365,4 +365,5 @@
 |   358.  |  2391  |  [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)   |   November 20   |
 |   359.  |  1814  |  [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)   |   November 21   |
 |   360.  |  1424  |  [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)   |   November 22   |
+|   361.  |  1630  |  [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)   |   November 23   |
 
