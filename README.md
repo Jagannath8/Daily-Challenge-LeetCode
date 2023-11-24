@@ -366,4 +366,5 @@
 |   359.  |  1814  |  [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)   |   November 21   |
 |   360.  |  1424  |  [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)   |   November 22   |
 |   361.  |  1630  |  [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)   |   November 23   |
+|   362.  |  1561  |  [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)   |   November 24   |
 
