@@ -368,4 +368,5 @@
 |   361.  |  1630  |  [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)   |   November 23   |
 |   362.  |  1561  |  [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)   |   November 24   |
 |   363.  |  1685  |  [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)   |   November 25   |
+|   364.  |  1727  |  [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)   |   November 26   |
 
