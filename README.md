@@ -370,4 +370,5 @@
 |   363.  |  1685  |  [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)   |   November 25   |
 |   364.  |  1727  |  [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)   |   November 26   |
 |   365.  |  935  |  [Knight Dialer](https://leetcode.com/problems/knight-dialer/)   |   November 27   |
+|   366.  |  2147  |  [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)   |   November 28   |
 
