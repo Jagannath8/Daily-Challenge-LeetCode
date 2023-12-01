@@ -373,4 +373,5 @@
 |   366.  |  2147  |  [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)   |   November 28   |
 |   367.  |  191  |  [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)   |   November 29   |
 |   368.  |  1611  |  [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)   |   November 30   |
+|   369.  |  1662  |  [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)   |   December 01   |
 
