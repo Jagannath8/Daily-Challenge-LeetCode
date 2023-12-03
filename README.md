@@ -375,4 +375,5 @@
 |   368.  |  1611  |  [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)   |   November 30   |
 |   369.  |  1662  |  [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)   |   December 01   |
 |   370.  |  1160  |  [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)   |   December 02   |
+|   371.  |  1266  |  [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)   |   December 03   |
 
