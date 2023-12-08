@@ -380,4 +380,5 @@
 |   373.  |  1688  |  [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)   |   December 05   |
 |   374.  |  1716  |  [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)   |   December 06   |
 |   375.  |  1903  |  [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)   |   December 07   |
+|   376.  |  606  |  [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)   |   December 08   |
 
