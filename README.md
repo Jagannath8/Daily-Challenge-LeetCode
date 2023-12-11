@@ -383,4 +383,5 @@
 |   376.  |  606  |  [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)   |   December 08   |
 |   377.  |  94  |  [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   |   December 09   |
 |   378.  |  867  |  [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)   |   December 10   |
+|   379.  |  1287  |  [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)   |   December 11   |
 
