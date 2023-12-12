@@ -384,4 +384,5 @@
 |   377.  |  94  |  [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   |   December 09   |
 |   378.  |  867  |  [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)   |   December 10   |
 |   379.  |  1287  |  [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)   |   December 11   |
+|   380.  |  1464  |  [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)   |   December 12   |
 
