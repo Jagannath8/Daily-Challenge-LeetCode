@@ -390,4 +390,5 @@
 |   383.  |  1436  |  [Destination City](https://leetcode.com/problems/destination-city/)   |   December 15   |
 |   384.  |  242  |  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)   |   December 16   |
 |   385.  |  2353  |  [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)   |   December 17   |
+|   386.  |  1913  |  [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)   |   December 18   |
 
