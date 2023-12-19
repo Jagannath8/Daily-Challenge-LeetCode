@@ -391,4 +391,5 @@
 |   384.  |  242  |  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)   |   December 16   |
 |   385.  |  2353  |  [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)   |   December 17   |
 |   386.  |  1913  |  [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)   |   December 18   |
+|   387.  |  661  |  [Image Smoother](https://leetcode.com/problems/image-smoother/)   |   December 19   |
 
