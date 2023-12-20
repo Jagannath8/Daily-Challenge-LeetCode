@@ -392,4 +392,5 @@
 |   385.  |  2353  |  [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)   |   December 17   |
 |   386.  |  1913  |  [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)   |   December 18   |
 |   387.  |  661  |  [Image Smoother](https://leetcode.com/problems/image-smoother/)   |   December 19   |
+|   388.  |  2706  |  [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)   |   December 20   |
 
