@@ -400,4 +400,5 @@
 |   393.  |  91  |  [Decode Ways](https://leetcode.com/problems/decode-ways/)   |   December 25   |
 |   394.  |  1155  |  [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)   |   December 26   |
 |   395.  |  1578  |  [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)   |   December 27   |
+|   396.  |  1531  |  [String Compression II](https://leetcode.com/problems/string-compression-ii/)   |   December 28   |
 
