@@ -402,4 +402,5 @@
 |   395.  |  1578  |  [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)   |   December 27   |
 |   396.  |  1531  |  [String Compression II](https://leetcode.com/problems/string-compression-ii/)   |   December 28   |
 |   397.  |  1335  |  [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)   |   December 29   |
+|   398.  |  1897  |  [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)   |   December 30   |
 
