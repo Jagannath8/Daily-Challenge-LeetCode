@@ -408,7 +408,7 @@
 
 
 
-<img src="https://www.vecteezy.com/vector-art/13257051-red-neon-colored-2024-year-isolated-on-white"/>
+<img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202312/659152fc7b3a6-new-year-wishes-313518160-16x9.png?size=600:250"/>
 
 
 <!---  <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> 
