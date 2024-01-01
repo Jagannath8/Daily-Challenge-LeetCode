@@ -1,6 +1,7 @@
 # Daily Challenge LeetCode
 
 <img src="https://img.shields.io/badge/leetcode%20-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=ffae42"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif"/>
 
 
 | S.No | Q.No | Question |  Date  |
@@ -405,3 +406,17 @@
 |   398.  |  1897  |  [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)   |   December 30   |
 |   399.  |  1624  |  [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)   |   December 31   |
 
+
+
+<img src="https://www.vecteezy.com/vector-art/13257051-red-neon-colored-2024-year-isolated-on-white"/>
+
+
+<!---  <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> 
+      <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> 
+      <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> --->
+
+
+
+| S.No | Q.No | Question | Difficulty |  Date  |
+| --------------- | --------------- | --------------- | --------------- | --------------- | 
+|  400. |  455  | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 01 |
