@@ -420,3 +420,4 @@
 | S.No | Q.No | Question | Difficulty |  Date  |
 | --------------- | --------------- | --------------- | --------------- | --------------- | 
 |  400. |  455  | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 01 |
+|  401. |  2610  | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 02 |
