@@ -421,3 +421,4 @@
 | --------------- | --------------- | --------------- | --------------- | --------------- | 
 |  400. |  455  | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 01 |
 |  401. |  2610  | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 02 |
+|  402. |  2125  | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 03 |
