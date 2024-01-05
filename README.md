@@ -423,3 +423,4 @@
 |  401. |  2610  | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 02 |
 |  402. |  2125  | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 03 |
 |  403. |  2870  | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 04 |
+|  404. |  300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 05 |
