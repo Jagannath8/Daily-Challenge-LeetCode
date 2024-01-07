@@ -425,3 +425,4 @@
 |  403. |  2870  | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 04 |
 |  404. |  300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 05 |
 |  405. |  1235  | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 06 |
+|  406. |  446  | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 07 |
