@@ -427,3 +427,4 @@
 |  405. |  1235  | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 06 |
 |  406. |  446  | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 07 |
 |  407. |  938  | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 08 |
+|  408. |  872  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 09 |
