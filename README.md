@@ -433,3 +433,4 @@
 |  411. |  1704  | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 12 |
 |  412. |  1347  | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 13 |
 |  413. |  1657  | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 14 |
+|  414. |  2225  | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 15 |
