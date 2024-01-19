@@ -437,3 +437,4 @@
 |  415. |  380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 16 |
 |  416. |  1207  | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 17 |
 |  417. |  70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 18 |
+|  418. |  931  | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 19 |
