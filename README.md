@@ -441,3 +441,4 @@
 |  419. |  907  | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 20 |
 |  420. |  198  | [House Robber](https://leetcode.com/problems/house-robber/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 21 |
 |  421. |  645  | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 22 |
+|  422. |  1239  | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 23 |
