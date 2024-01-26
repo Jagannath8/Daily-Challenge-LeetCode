@@ -444,3 +444,4 @@
 |  422. |  1239  | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 23 |
 |  423. |  1457  | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 24 |
 |  424. |  1143  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 25 |
+|  425. |  576  | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 26 |
