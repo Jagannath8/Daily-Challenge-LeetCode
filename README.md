@@ -446,3 +446,4 @@
 |  424. |  1143  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 25 |
 |  425. |  576  | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 26 |
 |  426. |  629  | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 27 |
+|  427. |  1074  | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 28 |
