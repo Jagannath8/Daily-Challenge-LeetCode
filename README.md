@@ -449,3 +449,4 @@
 |  427. |  1074  | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | January 28 |
 |  428. |  232  | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | January 29 |
 |  429. |  150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 30 |
+|  430. |  739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 31 |
