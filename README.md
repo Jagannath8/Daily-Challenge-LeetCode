@@ -451,3 +451,4 @@
 |  429. |  150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 30 |
 |  430. |  739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | January 31 |
 |  431. |  2966  | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 01 |
+|  432. |  1291  | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 02 |
