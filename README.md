@@ -454,3 +454,4 @@
 |  432. |  1291  | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 02 |
 |  433. |  1043  | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 03 |
 |  434. |  76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 04 |
+|  435. |  387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 05 |
