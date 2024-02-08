@@ -457,3 +457,4 @@
 |  435. |  387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 05 |
 |  436. |  49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 06 |
 |  437. |  451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 07 |
+|  438. |  279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 08 |
