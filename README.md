@@ -467,3 +467,4 @@
 |  445. |  2971  | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 15 |
 |  446. |  1481  | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 16 |
 |  447. |  1642  | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 17 |
+|  448. |  2402  | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 18 |
