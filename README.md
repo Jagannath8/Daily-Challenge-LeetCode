@@ -469,3 +469,4 @@
 |  447. |  1642  | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 17 |
 |  448. |  2402  | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 18 |
 |  449. |  231  | [Power of Two](https://leetcode.com/problems/power-of-two/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 19 |
+|  450. |  268  | [Missing Number](https://leetcode.com/problems/missing-number/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 20 |
