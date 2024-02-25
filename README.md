@@ -474,3 +474,4 @@
 |  452. |  997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 22 |
 |  453. |  787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 23 |
 |  454. |  2092  | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 24 |
+|  455. |  2709  | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 25 |
