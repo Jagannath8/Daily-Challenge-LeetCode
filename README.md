@@ -476,3 +476,4 @@
 |  454. |  2092  | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 24 |
 |  455. |  2709  | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | February 25 |
 |  456. |  100  | [Same Tree](https://leetcode.com/problems/same-tree/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 26 |
+|  457. |  543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 27 |
