@@ -479,3 +479,4 @@
 |  457. |  543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | February 27 |
 |  458. |  513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 28 |
 |  459. |  1609  | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 29 |
+|  460. |  2864  | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 01 |
