@@ -481,3 +481,4 @@
 |  459. |  1609  | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | February 29 |
 |  460. |  2864  | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 01 |
 |  461. |  977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 02 |
+|  462. |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 03 |
