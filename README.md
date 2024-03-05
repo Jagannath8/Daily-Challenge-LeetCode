@@ -483,3 +483,4 @@
 |  461. |  977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 02 |
 |  462. |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 03 |
 |  463. |  948  | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 04 |
+|  464. |  1750  | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 05 |
