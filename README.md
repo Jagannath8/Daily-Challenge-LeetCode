@@ -488,3 +488,4 @@
 |  466. |  876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 07 |
 |  467. |  3005  | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 08 |
 |  468. |  2540  | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 09 |
+|  469. |  349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 10 |
