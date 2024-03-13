@@ -491,3 +491,4 @@
 |  469. |  349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 10 |
 |  470. |  791  | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 11 |
 |  471. |  1171  | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 12 |
+|  472. |  2485  | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 13 |
