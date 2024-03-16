@@ -494,3 +494,4 @@
 |  472. |  2485  | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 13 |
 |  473. |  930  | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 14 |
 |  474. |  238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 15 |
+|  475. |  525  | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 16 |
