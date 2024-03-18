@@ -496,3 +496,4 @@
 |  474. |  238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 15 |
 |  475. |  525  | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 16 |
 |  476. |  57  | [Insert Interval](https://leetcode.com/problems/insert-interval/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 17 |
+|  477. |  452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 18 |
