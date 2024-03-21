@@ -499,3 +499,4 @@
 |  477. |  452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 18 |
 |  478. |  621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 19 |
 |  479. |  1669  | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 20 |
+|  480. |  206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 21 |
