@@ -502,3 +502,4 @@
 |  480. |  206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 21 |
 |  481. |  234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | March 22 |
 |  482. |  143  | [Reorder List](https://leetcode.com/problems/reorder-list/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 23 |
+|  483. |  287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 24 |
