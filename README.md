@@ -505,3 +505,5 @@
 |  483. |  287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 24 |
 |  484. |  442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 25 |
 |  485. |  41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 26 |
+|  486. |  713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 27 |
+|  487. |  1958  | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 28 |
