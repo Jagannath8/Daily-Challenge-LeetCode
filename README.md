@@ -507,3 +507,4 @@
 |  485. |  41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 26 |
 |  486. |  713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 27 |
 |  487. |  1958  | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 28 |
+|  488. |  2962  | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | March 29 |
