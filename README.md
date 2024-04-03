@@ -512,3 +512,4 @@
 |  490. |  2444  | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | March 31 |
 |  491. |  58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 01 |
 |  492. |  205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 02 |
+|  493. |  79  | [Word Search](https://leetcode.com/problems/word-search/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 03 |
