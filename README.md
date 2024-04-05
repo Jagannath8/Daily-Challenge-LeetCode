@@ -514,3 +514,4 @@
 |  492. |  205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 02 |
 |  493. |  79  | [Word Search](https://leetcode.com/problems/word-search/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 03 |
 |  494. |  1614  | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 04 |
+|  495. |  1544  | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 05 |
