@@ -517,3 +517,4 @@
 |  495. |  1544  | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 05 |
 |  496. |  1249  | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 06 |
 |  497. |  678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 07 |
+|  498. |  1500  | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 08 |
