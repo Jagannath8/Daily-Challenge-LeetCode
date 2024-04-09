@@ -518,3 +518,4 @@
 |  496. |  1249  | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 06 |
 |  497. |  678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 07 |
 |  498. |  1500  | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 08 |
+|  499. |  2073  | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 09 |
