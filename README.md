@@ -520,3 +520,4 @@
 |  498. |  1500  | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 08 |
 |  499. |  2073  | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 09 |
 |  500. |  950  | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 10 |
+|  501. |  402  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 11 |
