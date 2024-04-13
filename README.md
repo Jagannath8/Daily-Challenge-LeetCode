@@ -522,3 +522,4 @@
 |  500. |  950  | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 10 |
 |  501. |  402  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 11 |
 |  502. |  42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | April 12 |
+|  503. |  85  | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | April 13 |
