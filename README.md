@@ -524,3 +524,4 @@
 |  502. |  42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | April 12 |
 |  503. |  85  | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)  | <img src="https://img.shields.io/badge/Hard-FA0000.svg?&style=for-the-badge"> | April 13 |
 |  504. |  404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 14 |
+|  505. |  129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 15 |
