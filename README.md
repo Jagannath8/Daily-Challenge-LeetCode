@@ -526,3 +526,4 @@
 |  504. |  404  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  | <img src="https://img.shields.io/badge/Easy-2322222.svg?&style=for-the-badge"> | April 14 |
 |  505. |  129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 15 |
 |  506. |  623  | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 16 |
+|  507. |  988  | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)  | <img src="https://img.shields.io/badge/Medium-FAD800.svg?&style=for-the-badge"> | April 17 |
